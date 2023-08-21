@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaloPotato
-- 👀 I’m interested in computational physics
+- 👀 I’m interested in computational physics.
 - 🌱 I’m currently learning python and C++.
 - 💞️ I’m looking to collaborate on beginner level projects.
 - 📫 How to reach me jdaiello@student.cccd.edu.
